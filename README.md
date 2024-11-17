@@ -1,16 +1,18 @@
-Face Recognition and Analysis with DeepFace
+**Face Recognition and Analysis with DeepFace**
 
 This project captures real-time images from your webcam, detects faces, and performs facial analysis (age, gender, emotion, race) using the DeepFace library.
 
-Features
+
+---
+**Features**
 
 	•	Real-time face detection using OpenCV.
 	•	Face analysis (age, gender, emotion, race) using DeepFace.
 	•	Captures and saves images with unique filenames.
 
-Setup
+**Setup**
 
-Prerequisites
+**Prerequisites**
 
 Ensure you have the following installed:
 	•	Python 3.7 or later
@@ -29,18 +31,18 @@ deepface
 tensorflow  
 tf-keras  
 
-Controls
+**Controls**
 
 	•	Press ‘k’: Captures an image, saves it, and performs facial analysis.
 	•	Press ‘q’: Exits the application.
 
-Acknowledgements
+**Acknowledgements**
 
 	•	OpenCV for face detection.
 	•	DeepFace for facial analysis.
 	•	TensorFlow for model inference.
 
-License
+**License**
 
 This project is licensed under the MIT License.
 
